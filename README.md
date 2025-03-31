@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Advanced ChatGPT Prompts
 
 A curated list of advanced ChatGPT prompts designed to push the boundaries of creativity, learning, and critical thinking.  
@@ -224,6 +223,3 @@ Prepare effectively for job interviews by practicing with tailored, realistic sc
 2. Customize placeholders (e.g., `[subject]`, `[concept]`) to suit your needs.
 3. Leverage insights and guidance to supercharge learning, problem-solving, or creativity.
 4. Experiment and share results to inspire others!
-
----
-```
